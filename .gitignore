@@ -1,0 +1,39 @@
+# Dataset images (too large for GitHub)
+data/raw/
+data/processed/*.jpg
+data/processed/*.jpeg
+data/processed/*.png
+
+# Model weights
+models/*.pth
+models/*.pt
+models/*.h5
+models/*.pkl
+
+# Python virtual environment
+env/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Distribution
+dist/
+build/
+*.egg-info/
