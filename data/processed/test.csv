@@ -1,0 +1,367 @@
+image_path,label,original_class
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Healthy_leaf\IMG_20230917_121956.jpg,soybean_Single_Healthy_Leaf,Single_Healthy_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (207).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (152).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Dry_leaf\IMG_20230917_141534_1.jpg,soybean_Single_Dry_Leaf,Single_Dry_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (488).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (109).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (288).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\6.Bacterial leaf Blight\IMG_20230917_144039.jpg,soybean_Bacterial_Leaf_Blight,6.Bacterial leaf Blight
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (80).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (33).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (346).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (240).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (387).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (157).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (165).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Healthy_leaf\IMG-20221227-WA0050.jpg,soybean_Single_Healthy_Leaf,Single_Healthy_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (398).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (355).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (393).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (142).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\6.Bacterial leaf Blight\IMG_20230917_144050_1.jpg,soybean_Bacterial_Leaf_Blight,6.Bacterial leaf Blight
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (26).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (12).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (463).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (194).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (120).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Multi_Septoria_Brown_spot\IMG_20230917_142720_1.jpg,soybean_Multi_Septoria_Brown_Spot,Multi_Septoria_Brown_spot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Dry_leaf\IMG_20230917_141703_1.jpg,soybean_Single_Dry_Leaf,Single_Dry_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Healthy_leaf\IMG-20221227-WA0046.jpg,soybean_Single_Healthy_Leaf,Single_Healthy_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (174).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (111).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (328).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Septoria_Brown_spot\IMG_20230917_140914.jpg,soybean_Single_Septoria_Brown_Spot,Single_Septoria_Brown_spot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (277).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (204).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (107).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Dry_leaf\IMG_20230917_142902.jpg,soybean_Single_Dry_Leaf,Single_Dry_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (480).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (117).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (228).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (483).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Septoria_Brown_spot\IMG_20230917_141246_1.jpg,soybean_Single_Septoria_Brown_Spot,Single_Septoria_Brown_spot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Septoria_Brown_spot\IMG_20230917_140841.jpg,soybean_Single_Septoria_Brown_Spot,Single_Septoria_Brown_spot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Multi_Vein Necrosis\IMG_20230917_142136_1.jpg,soybean_Multi_Vein_Necrosis,Multi_Vein Necrosis
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (15).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (68).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (288).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (46).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Healthy_leaf\IMG_20230917_121819.jpg,soybean_Single_Healthy_Leaf,Single_Healthy_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Dry_leaf\IMG_20230917_142857_1.jpg,soybean_Single_Dry_Leaf,Single_Dry_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Septoria_Brown_spot\IMG_20230917_140755_2.jpg,soybean_Single_Septoria_Brown_Spot,Single_Septoria_Brown_spot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (71).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (414).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (118).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Healthy_leaf\IMG_20230917_140243.jpg,soybean_Single_Healthy_Leaf,Single_Healthy_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (111).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (81).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (18).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (86).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Healthy_leaf\IMG_20230917_135749.jpg,soybean_Single_Healthy_Leaf,Single_Healthy_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (336).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (176).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (199).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\6.Bacterial leaf Blight\IMG_20230917_144230_1.jpg,soybean_Bacterial_Leaf_Blight,6.Bacterial leaf Blight
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\6.Bacterial leaf Blight\IMG_20230917_144155.jpg,soybean_Bacterial_Leaf_Blight,6.Bacterial leaf Blight
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (174).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Septoria_Brown_spot\IMG_20230917_141032_1.jpg,soybean_Single_Septoria_Brown_Spot,Single_Septoria_Brown_spot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (81).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (293).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (436).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\6.Bacterial leaf Blight\IMG_20230917_144432.jpg,soybean_Bacterial_Leaf_Blight,6.Bacterial leaf Blight
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Septoria_Brown_spot\IMG_20230917_140856_1.jpg,soybean_Single_Septoria_Brown_Spot,Single_Septoria_Brown_spot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (452).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (138).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (68).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\6.Bacterial leaf Blight\IMG_20230917_144137.jpg,soybean_Bacterial_Leaf_Blight,6.Bacterial leaf Blight
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (239).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (337).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (10).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (56).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (232).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (280).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (55).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Septoria_Brown_spot\IMG_20230917_140755_1.jpg,soybean_Single_Septoria_Brown_Spot,Single_Septoria_Brown_spot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (442).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (192).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (286).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (407).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (7).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (498).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (115).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Dry_leaf\IMG_20230917_141529.jpg,soybean_Single_Dry_Leaf,Single_Dry_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\6.Bacterial leaf Blight\IMG_20230917_144452_2.jpg,soybean_Bacterial_Leaf_Blight,6.Bacterial leaf Blight
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (168).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (360).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (198).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (132).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Dry_leaf\IMG_20230917_141517_1.jpg,soybean_Single_Dry_Leaf,Single_Dry_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Healthy_leaf\IMG_20230917_141815.jpg,soybean_Single_Healthy_Leaf,Single_Healthy_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Septoria_Brown_spot\IMG_20230917_141220_1.jpg,soybean_Single_Septoria_Brown_Spot,Single_Septoria_Brown_spot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (481).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (119).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (275).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Vein Necrosis Virus\IMG_20230917_141412_1.jpg,soybean_Single_Vein_Necrosis_Virus,Single_Vein Necrosis Virus
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (390).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Healthy_leaf\IMG_20230917_141848_1.jpg,soybean_Single_Healthy_Leaf,Single_Healthy_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (203).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Healthy_leaf\IMG_20230917_141930_2.jpg,soybean_Single_Healthy_Leaf,Single_Healthy_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (392).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (117).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (150).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Healthy_leaf\IMG_20230917_122006.jpg,soybean_Single_Healthy_Leaf,Single_Healthy_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (351).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (255).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (184).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Septoria_Brown_spot\IMG_20230917_140650_1.jpg,soybean_Single_Septoria_Brown_Spot,Single_Septoria_Brown_spot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (230).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (318).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (495).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Dry_leaf\IMG_20230917_143050.jpg,soybean_Single_Dry_Leaf,Single_Dry_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Healthy_leaf\IMG_20230917_141949_1.jpg,soybean_Single_Healthy_Leaf,Single_Healthy_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Healthy_leaf\IMG_20230917_140113_1.jpg,soybean_Single_Healthy_Leaf,Single_Healthy_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (74).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (362).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (341).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (479).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (4).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (339).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (269).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Dry_leaf\IMG_20230917_144502.jpg,soybean_Single_Dry_Leaf,Single_Dry_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (266).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (217).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (109).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (415).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (349).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Multi_Septoria_Brown_spot\IMG_20230917_142721_1.jpg,soybean_Multi_Septoria_Brown_Spot,Multi_Septoria_Brown_spot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (128).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (478).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (281).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Vein Necrosis Virus\IMG_20230917_144010.jpg,soybean_Single_Vein_Necrosis_Virus,Single_Vein Necrosis Virus
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (140).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (69).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Healthy_leaf\IMG_20230917_135839.jpg,soybean_Single_Healthy_Leaf,Single_Healthy_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (210).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (410).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (225).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (363).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (109).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\6.Bacterial leaf Blight\IMG_20230917_144206_2.jpg,soybean_Bacterial_Leaf_Blight,6.Bacterial leaf Blight
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (433).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (299).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Multi_Vein Necrosis\IMG_20230917_142229_1.jpg,soybean_Multi_Vein_Necrosis,Multi_Vein Necrosis
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Healthy_leaf\IMG_20230917_141911.jpg,soybean_Single_Healthy_Leaf,Single_Healthy_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Multi_Septoria_Brown_spot\IMG_20230917_142601_1.jpg,soybean_Multi_Septoria_Brown_Spot,Multi_Septoria_Brown_spot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (121).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (123).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (407).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (203).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Healthy_leaf\IMG_20230917_135851.jpg,soybean_Single_Healthy_Leaf,Single_Healthy_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (26).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (198).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (57).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Dry_leaf\IMG_20230917_121808.jpg,soybean_Single_Dry_Leaf,Single_Dry_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Dry_leaf\IMG_20230917_142903_1.jpg,soybean_Single_Dry_Leaf,Single_Dry_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Septoria_Brown_spot\IMG_20230917_141233_1.jpg,soybean_Single_Septoria_Brown_Spot,Single_Septoria_Brown_spot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Dry_leaf\IMG_20230917_142852.jpg,soybean_Single_Dry_Leaf,Single_Dry_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (18).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (462).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (78).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Healthy_leaf\IMG_20230917_141936_1.jpg,soybean_Single_Healthy_Leaf,Single_Healthy_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (18).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (272).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Septoria_Brown_spot\IMG_20230917_141209_1.jpg,soybean_Single_Septoria_Brown_Spot,Single_Septoria_Brown_spot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Vein Necrosis Virus\IMG_20230917_141431.jpg,soybean_Single_Vein_Necrosis_Virus,Single_Vein Necrosis Virus
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (302).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (163).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\6.Bacterial leaf Blight\IMG_20230917_144100_1.jpg,soybean_Bacterial_Leaf_Blight,6.Bacterial leaf Blight
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\6.Bacterial leaf Blight\IMG_20230917_144327.jpg,soybean_Bacterial_Leaf_Blight,6.Bacterial leaf Blight
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Vein Necrosis Virus\IMG_20230917_143930.jpg,soybean_Single_Vein_Necrosis_Virus,Single_Vein Necrosis Virus
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (474).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Dry_leaf\IMG_20230917_141545.jpg,soybean_Single_Dry_Leaf,Single_Dry_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\6.Bacterial leaf Blight\IMG_20230917_144217.jpg,soybean_Bacterial_Leaf_Blight,6.Bacterial leaf Blight
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\6.Bacterial leaf Blight\IMG_20230917_144423_2.jpg,soybean_Bacterial_Leaf_Blight,6.Bacterial leaf Blight
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (377).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (196).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (441).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Healthy_leaf\IMG_20230917_141851_1.jpg,soybean_Single_Healthy_Leaf,Single_Healthy_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (435).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (158).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Septoria_Brown_spot\IMG_20230917_141000.jpg,soybean_Single_Septoria_Brown_Spot,Single_Septoria_Brown_spot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Multi_Dry_leaf\IMG_20230917_142444_1.jpg,soybean_Multi_Dry_Leaf,Multi_Dry_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Vein Necrosis Virus\IMG_20230917_141327_1.jpg,soybean_Single_Vein_Necrosis_Virus,Single_Vein Necrosis Virus
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Septoria_Brown_spot\IMG_20230917_140855_2.jpg,soybean_Single_Septoria_Brown_Spot,Single_Septoria_Brown_spot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Septoria_Brown_spot\IMG_20230917_140704.jpg,soybean_Single_Septoria_Brown_Spot,Single_Septoria_Brown_spot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (441).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Healthy_leaf\IMG_20230917_142003_1.jpg,soybean_Single_Healthy_Leaf,Single_Healthy_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (492).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (214).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Dry_leaf\IMG_20230917_143051_2.jpg,soybean_Single_Dry_Leaf,Single_Dry_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\6.Bacterial leaf Blight\IMG_20230917_144319.jpg,soybean_Bacterial_Leaf_Blight,6.Bacterial leaf Blight
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\6.Bacterial leaf Blight\IMG_20230917_144132.jpg,soybean_Bacterial_Leaf_Blight,6.Bacterial leaf Blight
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (221).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (62).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (55).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (505).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (179).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (220).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (316).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Dry_leaf\IMG_20230917_141752_1.jpg,soybean_Single_Dry_Leaf,Single_Dry_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (50).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\6.Bacterial leaf Blight\IMG_20230917_144112.jpg,soybean_Bacterial_Leaf_Blight,6.Bacterial leaf Blight
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Septoria_Brown_spot\IMG_20230917_141006_1.jpg,soybean_Single_Septoria_Brown_Spot,Single_Septoria_Brown_spot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (8).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (243).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Dry_leaf\IMG_20230917_144501.jpg,soybean_Single_Dry_Leaf,Single_Dry_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (482).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (19).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Vein Necrosis Virus\IMG_20230917_141439.jpg,soybean_Single_Vein_Necrosis_Virus,Single_Vein Necrosis Virus
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (51).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Septoria_Brown_spot\IMG_20230917_140649_1.jpg,soybean_Single_Septoria_Brown_Spot,Single_Septoria_Brown_spot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (385).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (421).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (372).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Healthy_leaf\IMG-20221227-WA0140.jpg,soybean_Single_Healthy_Leaf,Single_Healthy_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\6.Bacterial leaf Blight\IMG_20230917_144410.jpg,soybean_Bacterial_Leaf_Blight,6.Bacterial leaf Blight
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (38).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (104).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (477).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (88).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (339).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (251).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (217).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (243).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (401).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (453).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (140).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Dry_leaf\IMG_20230917_142852_1.jpg,soybean_Single_Dry_Leaf,Single_Dry_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (477).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (252).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (486).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Septoria_Brown_spot\IMG_20230917_140755.jpg,soybean_Single_Septoria_Brown_Spot,Single_Septoria_Brown_spot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Septoria_Brown_spot\IMG_20230917_141045_1.jpg,soybean_Single_Septoria_Brown_Spot,Single_Septoria_Brown_spot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Dry_leaf\IMG_20230917_141559.jpg,soybean_Single_Dry_Leaf,Single_Dry_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (145).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (235).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (362).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (411).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Septoria_Brown_spot\IMG_20230917_140721.jpg,soybean_Single_Septoria_Brown_Spot,Single_Septoria_Brown_spot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (82).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Healthy_leaf\IMG_20230917_135846.jpg,soybean_Single_Healthy_Leaf,Single_Healthy_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (371).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (254).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (195).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Healthy_leaf\IMG_20230917_141850_1.jpg,soybean_Single_Healthy_Leaf,Single_Healthy_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Healthy_leaf\IMG_20230917_141837_1.jpg,soybean_Single_Healthy_Leaf,Single_Healthy_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (133).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (121).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (458).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\6.Bacterial leaf Blight\IMG_20230917_144127.jpg,soybean_Bacterial_Leaf_Blight,6.Bacterial leaf Blight
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (101).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (19).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Septoria_Brown_spot\IMG_20230917_140907_1.jpg,soybean_Single_Septoria_Brown_Spot,Single_Septoria_Brown_spot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (489).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (439).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (346).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (381).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (194).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (358).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (24).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (41).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Vein Necrosis Virus\IMG_20230917_141329_1.jpg,soybean_Single_Vein_Necrosis_Virus,Single_Vein Necrosis Virus
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (386).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (302).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Healthy_leaf\IMG_20230917_121744_1.jpg,soybean_Single_Healthy_Leaf,Single_Healthy_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (477).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\6.Bacterial leaf Blight\IMG_20230917_144256_1.jpg,soybean_Bacterial_Leaf_Blight,6.Bacterial leaf Blight
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\6.Bacterial leaf Blight\IMG_20230917_144219.jpg,soybean_Bacterial_Leaf_Blight,6.Bacterial leaf Blight
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (458).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (406).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Multi_Vein Necrosis\IMG_20230917_142138_1.jpg,soybean_Multi_Vein_Necrosis,Multi_Vein Necrosis
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (457).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (409).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (63).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (400).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (34).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (488).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (30).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (65).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (446).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (401).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (481).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Septoria_Brown_spot\IMG_20230917_140959_1.jpg,soybean_Single_Septoria_Brown_Spot,Single_Septoria_Brown_spot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Dry_leaf\IMG_20230917_141521.jpg,soybean_Single_Dry_Leaf,Single_Dry_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (1).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (452).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (491).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (62).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (317).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (42).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (522).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (429).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (374).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (452).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (365).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (464).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (282).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (369).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (514).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\6.Bacterial leaf Blight\IMG_20230917_144445_1.jpg,soybean_Bacterial_Leaf_Blight,6.Bacterial leaf Blight
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (112).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (11).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Healthy_leaf\IMG_20230917_141901_1.jpg,soybean_Single_Healthy_Leaf,Single_Healthy_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Septoria_Brown_spot\IMG_20230917_140723.jpg,soybean_Single_Septoria_Brown_Spot,Single_Septoria_Brown_spot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Multi_Dry_leaf\IMG_20230917_142517_2.jpg,soybean_Multi_Dry_Leaf,Multi_Dry_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (286).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Healthy_leaf\IMG_20230917_140244.jpg,soybean_Single_Healthy_Leaf,Single_Healthy_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (237).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (233).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (291).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (154).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (454).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (508).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (204).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (360).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Healthy_leaf\IMG_20230917_135745_1.jpg,soybean_Single_Healthy_Leaf,Single_Healthy_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (70).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\6.Bacterial leaf Blight\IMG_20230917_144318.jpg,soybean_Bacterial_Leaf_Blight,6.Bacterial leaf Blight
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (448).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (324).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Vein Necrosis Virus\IMG_20230917_144011.jpg,soybean_Single_Vein_Necrosis_Virus,Single_Vein Necrosis Virus
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Septoria_Brown_spot\IMG_20230917_141113.jpg,soybean_Single_Septoria_Brown_Spot,Single_Septoria_Brown_spot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (324).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (196).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (492).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (511).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (287).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (416).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Multi_Septoria_Brown_spot\IMG_20230917_142600.jpg,soybean_Multi_Septoria_Brown_Spot,Multi_Septoria_Brown_spot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Dry_leaf\IMG_20230917_143007.jpg,soybean_Single_Dry_Leaf,Single_Dry_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (370).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Septoria_Brown_spot\IMG_20230917_141140.jpg,soybean_Single_Septoria_Brown_Spot,Single_Septoria_Brown_spot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Vein Necrosis Virus\IMG_20230917_141443.jpg,soybean_Single_Vein_Necrosis_Virus,Single_Vein Necrosis Virus
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (386).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (253).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (289).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (30).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (28).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (188).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (246).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (384).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Vein Necrosis Virus\IMG_20230917_141401_1.jpg,soybean_Single_Vein_Necrosis_Virus,Single_Vein Necrosis Virus
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (274).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Vein Necrosis Virus\IMG_20230917_141452.jpg,soybean_Single_Vein_Necrosis_Virus,Single_Vein Necrosis Virus
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (144).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (441).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (97).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (143).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Rust\rust (110).jpeg,sugarcane_Rust,Rust
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Multi_Dry_leaf\IMG_20230917_142519_2.jpg,soybean_Multi_Dry_Leaf,Multi_Dry_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Mosaic\mosaic (124).jpeg,sugarcane_Mosaic,Mosaic
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Healthy\healthy (213).jpeg,sugarcane_Healthy,Healthy
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\Single_Dry_leaf\IMG_20230917_141518_1.jpg,soybean_Single_Dry_Leaf,Single_Dry_leaf
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (226).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\Yellow\yellow (155).jpeg,sugarcane_Yellow,Yellow
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\sugarcane\RedRot\redrot (335).jpeg,sugarcane_Redrot,RedRot
+C:\Users\Amarjeet\Desktop\SeamEdu Awards\Projects\CropDiseaseAI\data\raw\soybean\6.Bacterial leaf Blight\IMG_20230917_144324.jpg,soybean_Bacterial_Leaf_Blight,6.Bacterial leaf Blight
