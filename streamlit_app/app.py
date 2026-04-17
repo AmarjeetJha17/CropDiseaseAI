@@ -28,7 +28,7 @@ model = load_model()
 
 # Class names (exactly matching your dataset)
 classes = [
-    "soybean_Bacterial_Leaf_Blight", "soybean_Multi_Dry_Leaf", "soybean_Multi_Healthy_Leaf",
+    "soybean_Bacterial_Leaf_Blight", "soybean_Multi_Dry_Leaf", 
     "soybean_Multi_Septoria_Brown_Spot", "soybean_Multi_Vein_Necrosis", "soybean_Single_Dry_Leaf",
     "soybean_Single_Healthy_Leaf", "soybean_Single_Septoria_Brown_Spot", "soybean_Single_Vein_Necrosis_Virus",
     "sugarcane_Healthy", "sugarcane_Mosaic", "sugarcane_Redrot", "sugarcane_Rust", "sugarcane_Yellow"

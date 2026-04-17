@@ -60,3 +60,68 @@ Farmers in Maharashtra (Pune, Satara, Ahmednagar, Solapur, Nashik) lose 20–30%
 ```bash
 git clone https://github.com/AmarjeetJha17/CropDiseaseAI.git
 cd CropDiseaseAI
+```
+
+### 2. Set up a Virtual Environment (Recommended)
+```bash
+python -m venv env
+# On Windows:
+env\Scripts\activate
+# On Mac/Linux:
+source env/bin/activate
+```
+
+### 3. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Run the Streamlit Application
+```bash
+streamlit run streamlit_app/app.py
+```
+The application will open automatically in your default internet browser (usually at `http://localhost:8501`).
+
+---
+
+## 📂 Project Structure
+```text
+CropDiseaseAI/
+│
+├── streamlit_app/      # Streamlit web application
+│   └── app.py          # Main application file
+│
+├── notebooks/          # Machine Learning scripts and notebooks
+│   ├── 01_preprocessing.py   
+│   ├── 03_training.py
+│   └── custom_dataset.py
+│
+├── models/             # Saved PyTorch model weights
+├── reports/            # Training visualizations and evaluation metrics
+├── data/               # Raw and processed data (ignored by git)
+├── architecture.py     # Neural network architecture definition
+├── requirements.txt    # Project Python dependencies
+└── README.md           # Instructions and documentation
+```
+
+---
+
+## 🤝 Contributing
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+---
+
+## 📜 License
+Distributed under the **MIT License**.
+
+---
+
+## 👨‍💻 Author
+**Amarjeet Jha**  
+*Submission for Seamedu Awards 2026 - Best AI Innovator Category*
